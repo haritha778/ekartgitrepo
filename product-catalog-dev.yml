@@ -9,4 +9,5 @@ spring:
       hibernate:
         ddl-auto: update
       show-sql: true
-message: welcome in development !!!
+
+message: welcome in development profile !!!
